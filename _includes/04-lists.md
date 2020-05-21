@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+My favorite things.
+1. Drink a Coffee :coffee:
+2. Read a book.
+3. Take a snap.
